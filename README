@@ -1,0 +1,17 @@
+# Cuffless Blood Pressure Estimation
+
+Machine learning project for estimating blood pressure using ECG and PPG signals.
+
+## Overview
+
+This project explores the use of physiological signals and machine learning methods for cuffless blood pressure estimation.
+
+## Technologies
+
+* Python
+* Machine Learning
+* ECG / PPG Signal Processing
+
+## Status
+
+Academic / Personal Project
